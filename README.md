@@ -6,4 +6,4 @@
 
 <p> Aplicativbo para gerenciamento de funcionários paa os setor de Recursos Humanos - RH </p>
 
-<img src="./">
+<img src="./download.png">
